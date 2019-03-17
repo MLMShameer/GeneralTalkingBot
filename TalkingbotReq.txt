@@ -1,0 +1,11 @@
+nltk
+numpy
+random
+string
+sklearn
+pyttsx3
+speech_recognition
+wikipedia
+textblob
+keras
+tensorflow

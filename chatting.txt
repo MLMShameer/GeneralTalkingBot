@@ -1,0 +1,6 @@
+Hello!	Hi
+Hi, what's your name?	shameer
+Bot. Bot how do you spell you name?	s-h-a-m-e-e-r
+Oh, OK. That's a nice name. And where are you from?	badulla
+Madras!	badulla.
+what do you like to eat?	Apple.
